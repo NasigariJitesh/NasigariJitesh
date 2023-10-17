@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/NasigariJitesh/nasigarijr/main/chat.svg)](https://www.linkedin.com/in/nasigarijr/)
 
-
+<!--- Maybe in future
 [![Linkedin Badge](https://img.shields.io/badge/-Artem%20Kulikov-e9e9e9?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nasigarijr/)](https://www.linkedin.com/in/nasigarijr/) 
 
 
@@ -12,4 +12,4 @@
 
 
 ![Metrics](https://metrics.lecoq.io/nasigarijitesh)
-
+-->
