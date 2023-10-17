@@ -1,4 +1,4 @@
-<svg width="550" height="390" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="550" height="350" viewBox="0 0 550 350" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .bubble {
       fill: #e9e9eb;
@@ -114,44 +114,44 @@
     @keyframes msg-3 {
       0% {
         opacity: 0;
-        transform: translate(10px, 140px);
+        transform: translate(10px, 125px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 135px);
+        transform: translate(10px, 120px);
       }
     }
 
     @keyframes msg-4 {
       0% {
         opacity: 0;
-        transform: translate(10px, 2j1LY2px);
+        transform: translate(10px, 197px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 207px);
+        transform: translate(10px, 192px);
       }
     }
 
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(10px, 284px);
+        transform: translate(10px, 245px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 279px);
+        transform: translate(10px, 240px);
       }
     }
 
     @keyframes msg-6 {
       0% {
         opacity: 0;
-        transform: translate(10px, 332px);
+        transform: translate(10px, 293px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 327px);
+        transform: translate(10px, 288px);
       }
     }
 
@@ -273,15 +273,13 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="540" height="81" rx="18.0355" class="bubble" />
+    <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a full-stack engineer.</text>
-    <text x="15" y="50">I build applications mostly 
-    using React, React Native, Next.js, </text>
-    <text x="15" y="73">GraphQL, Node.js, MongoDB, Express.js .</text>
+    <text x="15" y="50">I build applicatios using React, React Native, Next.js, GraphQL, Node.js, MongoDB, Express.js .</text>
   </g>
 
   <!-- typing 3 -->
- <g transform="translate(10, 135)" class="typing-3">
+ <g transform="translate(10, 120)" class="typing-3">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -298,14 +296,14 @@
   </g>
 
   <!-- From Hyderabad... -->
-  <g transform="translate(10, 135)" class="msg-3">
-    <rect width="470" height="66.1302" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 120)" class="msg-3">
+    <rect width="445" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently I live in Hyderabad where it’s supposed to be</text>
-    <text x="15" y="50">19° C and <tspan class="emoji">☁️</tspan> today.</text>
+    <text x="15" y="50">34° C and <tspan class="emoji">🌤</tspan> today.</text>
   </g>
 
   <!-- typing 4 -->
-  <g transform="translate(10, 207)" class="typing-4">
+  <g transform="translate(10, 192)" class="typing-4">
     <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
     <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
     <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -323,8 +321,8 @@
   </g>
 
   <!-- Portfolio and LinkedIn -->
-  <g transform="translate(10, 207)" class="msg-4">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 192)" class="msg-4">
+    <rect width="350" height="42" rx="18.0355" class="bubble" />
      <text x="15" y="27">
       You can know more about me at <a xlink:href="https://jiteshnasigari.me/">Jitesh Nasigari</a>.
     </text>
@@ -334,7 +332,7 @@
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 279)" class="typing-5">
+  <g transform="translate(10, 240)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -352,13 +350,13 @@
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 279)" class="msg-5">
+  <g transform="translate(10, 240)" class="msg-5">
     <rect width="225" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for stopping by.</text>
   </g>
 
   <!-- typing 6 -->
-  <g transform="translate(10, 327)" class="typing-6">
+  <g transform="translate(10, 288)" class="typing-6">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -376,8 +374,18 @@
   </g>
 
   <!-- Have a great... -->
-  <g transform="translate(10, 327)" class="msg-6">
+  <g transform="translate(10, 288)" class="msg-6">
     <rect width="235" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great Tuesday! <tspan class="emoji">👋</tspan></text>  
   </g>
 </svg>
+
+
+
+
+  
+ 
+
+
+
+
