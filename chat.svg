@@ -276,8 +276,8 @@
     <rect width="540" height="81" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a full-stack engineer.</text>
     <text x="15" y="50">I build applications mostly 
-    using React, React Native, Next.js, GraphQL,</text>
-    <text x="15" y="73">Node.js, MongoDB, Express.js .</text>
+    using React, React Native, Next.js, </text>
+    <text x="15" y="73">GraphQL, Node.js, MongoDB, Express.js .</text>
   </g>
 
   <!-- typing 3 -->
