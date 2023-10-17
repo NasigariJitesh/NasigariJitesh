@@ -60,7 +60,7 @@ const psTime = formatDistance(new Date(2020, 12, 14), today, {
 })
 
 // Today's weather
-const locationKey = '261159'
+const locationKey = '202190'
 let url = `forecasts/v1/daily/1day/${locationKey}?apikey=${WEATHER_API_KEY}`
 console.log(url)
 got(url, { prefixUrl: WEATHER_DOMAIN })
