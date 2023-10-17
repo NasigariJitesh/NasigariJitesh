@@ -273,7 +273,7 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="485" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="600" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a full-stack engineer.</text>
     <text x="15" y="50">I build applicatios using React, React Native, Next.js, GraphQL, Node.js, MongoDB, Express.js .</text>
   </g>
@@ -322,11 +322,11 @@
 
   <!-- Portfolio and LinkedIn -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="255" height="42" rx="18.0355" class="bubble" />
+    <rect width="350" height="42" rx="18.0355" class="bubble" />
      <text x="15" y="27">
       You can know more about me at <a xlink:href="https://jiteshnasigari.me/">Jitesh Nasigari</a>.
     </text>
-    <text x="15" y="27">
+    <text x="15" y="50">
       You can find me on <a xlink:href="https://www.linkedin.com/in/nasigarijr/">LinkedIn</a>.
     </text>
   </g>
