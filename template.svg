@@ -273,11 +273,10 @@
    
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="540" height="81" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a full-stack engineer.</text>
-    <text x="15" y="50">I build applications mostly 
-    using React, React Native, Next.js, </text>
-    <text x="15" y="73">GraphQL, Node.js, MongoDB, Express.js .</text>
+    <rect width="415" height="81" rx="18.0355" class="bubble" />
+    <text x="15" y="27">{bioLine1}</text>
+    <text x="15" y="50">{bioLine2}</text>
+    <text x="15" y="73">{bioLine3}</text>
   </g>
 
   <!-- typing 3 -->
