@@ -274,9 +274,9 @@
   <!-- Work ... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="415" height="81" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a Full-Stack &amp; AI Engineer.</text>
-    <text x="15" y="50">Building scalable apps &amp; agentic AI systems</text>
-    <text x="15" y="73">using React, Node.js, Python, &amp; AWS.</text>
+    <text x="15" y="27">I’m an AI Platform Engineer.</text>
+    <text x="15" y="50">I build agent orchestration, RAG &amp; MCP</text>
+    <text x="15" y="73">systems — and the products on top of them.</text>
   </g>
 
   <!-- typing 3 -->

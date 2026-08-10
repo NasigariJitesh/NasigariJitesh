@@ -42,11 +42,12 @@ got(url)
     else if (weatherCode >= 95) iconEmoji = '⛈'
 
     // Static Bio Phrase (Simple & Robust)
-    // Covers: Full Stack, AI/LLMs, Cloud/Infra
+    // Covers: AI platform engineering, agentic AI, full-stack product work
     // Note: XML requires & to be escaped as &amp;
-    const bioLine1 = 'I’m a Full-Stack &amp; AI Engineer.'
-    const bioLine2 = 'Building scalable apps &amp; agentic AI systems'
-    const bioLine3 = 'using React, Node.js, Python, &amp; AWS.'
+    // Keep each line under ~43 characters so it fits the 415px bubble
+    const bioLine1 = 'I’m an AI Platform Engineer.'
+    const bioLine2 = 'I build agent orchestration, RAG &amp; MCP'
+    const bioLine3 = 'systems — and the products on top of them.'
 
     fs.readFile('template.svg', 'utf-8', (error, data) => {
       if (error) {
