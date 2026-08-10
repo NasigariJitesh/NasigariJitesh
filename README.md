@@ -28,29 +28,29 @@
 
 Currently a **Software Engineer at [Storable](https://www.storable.com/)**, where I'm designing an enterprise **AI SDK** on **LangGraph** and a custom AI execution engine that standardizes agent orchestration, tool calling, and workflow execution across products. I also architected and shipped a **React Native** app end to end using an AI-native SDLC, and helped transform a monolithic PHP/MySQL platform (~500K users) into distributed microservices.
 
-I like working across the full depth of an AI product — inference and retrieval at the bottom, agent orchestration in the middle, and a real product on top.
+I like working across the full depth of an AI product - inference and retrieval at the bottom, agent orchestration in the middle, and a real product on top.
 
 ---
 
 ### 🧠 What I Work On
 
-| Area | Focus |
-|---|---|
-| 🤖 **Agent Orchestration** | Multi-agent systems, workflow routing, durable execution — LangGraph, LangChain, Temporal |
-| 🔍 **RAG & Retrieval** | Embeddings, semantic search, metadata filtering, reranking — Milvus, Qdrant, Typesense |
-| 🔌 **Tool Calling & MCP** | Model Context Protocol integrations, function calling, autonomous task execution |
-| 🧵 **Context & Memory** | Long-context processing, session memory, context optimization |
-| ⚡ **Inference & Serving** | Self-hosted vLLM / Ollama, GPU utilization, latency and throughput tuning |
-| 🛡️ **LLM Reliability** | Prompt engineering, evaluation, guardrails, Langfuse observability |
-| 🚀 **AI-native SDLC** | Shipping with Claude Code and Cursor — AI-assisted implementation, testing, review |
-| ☁️ **Platform & Cloud** | Microservices, Kubernetes (EKS), Terraform, OpenTelemetry-based observability |
+| Area                       | Focus                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------------- |
+| 🤖 **Agent Orchestration** | Multi-agent systems, workflow routing, durable execution - LangGraph, LangChain, Temporal |
+| 🔍 **RAG & Retrieval**     | Embeddings, semantic search, metadata filtering, reranking - Milvus, Qdrant, Typesense    |
+| 🔌 **Tool Calling & MCP**  | Model Context Protocol integrations, function calling, autonomous task execution          |
+| 🧵 **Context & Memory**    | Long-context processing, session memory, context optimization                             |
+| ⚡ **Inference & Serving** | Self-hosted vLLM / Ollama, GPU utilization, latency and throughput tuning                 |
+| 🛡️ **LLM Reliability**     | Prompt engineering, evaluation, guardrails, Langfuse observability                        |
+| 🚀 **AI-native SDLC**      | Shipping with Claude Code and Cursor - AI-assisted implementation, testing, review        |
+| ☁️ **Platform & Cloud**    | Microservices, Kubernetes (EKS), Terraform, OpenTelemetry-based observability             |
 
 ---
 
 ### 🤖 Meet JARVIS
 
 I have developed my own AI assistant, **JARVIS**, grounded in my professional journey, skills, and accomplishments.
-Multi-provider LLM routing with automatic model selection, fallback handling, and rate-limit resilience — ask it anything about my work.
+Multi-provider LLM routing with automatic model selection, fallback handling, and rate-limit resilience - ask it anything about my work.
 
 [**👉 Start a conversation with JARVIS**](https://jiteshnasigari.com/jarvis)
 
@@ -58,15 +58,15 @@ Multi-provider LLM routing with automatic model selection, fallback handling, an
 
 ### 🔬 Featured Projects
 
-**[IntraGPT — Enterprise AI Platform](https://jiteshnasigari.com/projects)**
+**[IntraGPT - Enterprise AI Platform](https://jiteshnasigari.com/projects)**
 Conversational AI and enterprise knowledge retrieval platform. Agent orchestration and multi-agent collaboration, MCP tool calling, streaming sessions with long-context memory, RAG with reranking, and self-hosted inference on vLLM/Ollama.
 `Python` `FastAPI` `LangGraph` `MCP` `LiteLLM` `vLLM` `Milvus` `Langfuse`
 
 **[Social Media Intelligence Platform](https://jiteshnasigari.com/projects)**
-Semantic search and LLM-powered analysis over large-scale Telegram and YouTube content — ingestion and embedding pipelines, content classification, summarization, entity extraction, and near real-time retrieval.
+Semantic search and LLM-powered analysis over large-scale Telegram and YouTube content - ingestion and embedding pipelines, content classification, summarization, entity extraction, and near real-time retrieval.
 `Python` `FastAPI` `LangChain` `OpenAI` `Milvus` `MongoDB`
 
-**[JARVIS — Conversational Portfolio Assistant](https://jiteshnasigari.com/jarvis)**
+**[JARVIS - Conversational Portfolio Assistant](https://jiteshnasigari.com/jarvis)**
 Multi-provider LLM layer with automatic model selection and fallback, a dynamic context-assembly pipeline for grounded prompts, and follow-up question generation.
 `Next.js` `TypeScript` `Vercel AI SDK` `OpenAI` `Gemini` `Groq`
 
@@ -107,13 +107,14 @@ Multi-provider LLM layer with automatic model selection and fallback, a dynamic 
 
 ### 📝 Publications & Achievements
 
-- **IEEE Xplore (INDIACom 2022)** — [Identification of Optimal Model for Multi-Class Classification of COVID Tweets](https://ieeexplore.ieee.org/document/9763291)
-- **IoTCloud'21 (ACM/CSI/IEEECS)** — [Development of Touch Less Smart Toilets and Sewage Monitoring System Using IoT](http://icentre.iiitkottayam.ac.in/pdfs/proceedings.pdf#page=88)
-- 🏆 **Winner** — CSI NPDH, National Level Product Development Hackathon 2021
+- **IEEE Xplore (INDIACom 2022)** - [Identification of Optimal Model for Multi-Class Classification of COVID Tweets](https://ieeexplore.ieee.org/document/9763291)
+- **IoTCloud'21 (ACM/CSI/IEEECS)** - [Development of Touch Less Smart Toilets and Sewage Monitoring System Using IoT](http://icentre.iiitkottayam.ac.in/pdfs/proceedings.pdf#page=88)
+- 🏆 **Winner** - CSI NPDH, National Level Product Development Hackathon 2021
 
 ---
 
 ### 📈 GitHub Stats
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/NasigariJitesh/NasigariJitesh/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>

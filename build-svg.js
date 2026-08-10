@@ -10,7 +10,10 @@ const LON = '78.4867'
 let url = `https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&daily=temperature_2m_max,weathercode&timezone=auto`
 
 const today = new Date()
-const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long', timeZone: 'Asia/Kolkata' }).format(today)
+const todayDay = new Intl.DateTimeFormat('en-US', {
+  weekday: 'long',
+  timeZone: 'Asia/Kolkata',
+}).format(today)
 
 // Cheap, janky way to have variable bubble width
 const dayBubbleWidths = {
@@ -47,7 +50,7 @@ got(url)
     // Keep each line under ~43 characters so it fits the 415px bubble
     const bioLine1 = 'I’m an AI Platform Engineer.'
     const bioLine2 = 'I build agent orchestration, RAG &amp; MCP'
-    const bioLine3 = 'systems — and the products on top of them.'
+    const bioLine3 = 'systems - and the products on top of them.'
 
     fs.readFile('template.svg', 'utf-8', (error, data) => {
       if (error) {
